@@ -1,0 +1,14 @@
+C:\Users\PA\source\repos\StockManagement\StockManagement\bin\Debug\StockManagement.exe.config
+C:\Users\PA\source\repos\StockManagement\StockManagement\bin\Debug\StockManagement.exe
+C:\Users\PA\source\repos\StockManagement\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\PA\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.csprojAssemblyReference.cache
+C:\Users\PA\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.LoginForm.resources
+C:\Users\PA\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+C:\Users\PA\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+C:\Users\PA\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\PA\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.exe
+C:\Users\PA\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.pdb
+C:\Users\PA\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.FrNhapHang.resources
+C:\Users\PA\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.FrXuatHang.resources
+C:\Users\PA\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.FrThemmoisanpham.resources
+C:\Users\PA\source\repos\StockManagement\StockManagement\obj\Debug\StockManagement.FrQuanLySanPham.resources
